@@ -1,0 +1,5 @@
+dn: cn=Peter Michaels, ou=Artists, l=San Francisco, c=US
+changetype: modify
+add: telephonenumber
+telephonenumber: +1 415 555 0002
+

@@ -1,0 +1,5 @@
+# Add a directory "The Postmaster"
+dn: cn=The Postmaster,dc=example,dc=com
+objectClass: organisationalRole
+cn: The Postmaster
+
